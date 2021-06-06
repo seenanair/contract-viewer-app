@@ -1,0 +1,38 @@
+.fullscreenDiv {
+    background-color: #ffffff;
+    width: 100%;
+    height: auto;
+    bottom: 0px;
+    top: 0px;
+    left: 0;
+    position: absolute;
+}
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    margin-top: -25px;
+}
+
+.padding {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+.textbox{
+    height: 30px;
+    width : 330px;
+    font-size:18px;
+    margin-right: 6px;
+    
+}
+.label {
+    padding-right: 4px;
+    margin-right: 4px;
+}
+
+.button{
+    height: 30px;
+    font-weight: bold
+}
+

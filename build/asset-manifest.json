@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/contract-viewer-app/static/css/main.cdee54e7.chunk.css",
+    "main.js": "/contract-viewer-app/static/js/main.8d487bd4.chunk.js",
+    "main.js.map": "/contract-viewer-app/static/js/main.8d487bd4.chunk.js.map",
+    "runtime-main.js": "/contract-viewer-app/static/js/runtime-main.1a8c92aa.js",
+    "runtime-main.js.map": "/contract-viewer-app/static/js/runtime-main.1a8c92aa.js.map",
+    "static/js/2.ca6e4de7.chunk.js": "/contract-viewer-app/static/js/2.ca6e4de7.chunk.js",
+    "static/js/2.ca6e4de7.chunk.js.map": "/contract-viewer-app/static/js/2.ca6e4de7.chunk.js.map",
+    "static/js/3.fcd3f7c5.chunk.js": "/contract-viewer-app/static/js/3.fcd3f7c5.chunk.js",
+    "static/js/3.fcd3f7c5.chunk.js.map": "/contract-viewer-app/static/js/3.fcd3f7c5.chunk.js.map",
+    "index.html": "/contract-viewer-app/index.html",
+    "static/css/main.cdee54e7.chunk.css.map": "/contract-viewer-app/static/css/main.cdee54e7.chunk.css.map",
+    "static/js/2.ca6e4de7.chunk.js.LICENSE.txt": "/contract-viewer-app/static/js/2.ca6e4de7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a8c92aa.js",
+    "static/js/2.ca6e4de7.chunk.js",
+    "static/css/main.cdee54e7.chunk.css",
+    "static/js/main.8d487bd4.chunk.js"
+  ]
+}

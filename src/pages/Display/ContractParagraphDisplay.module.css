@@ -1,0 +1,12 @@
+
+
+.fullscreenDiv {
+  background-color: white;
+  display:flex;
+  flex-direction: column;
+  width: 100%;
+  height: auto;
+  bottom: 0px;
+  top:0;
+  left: 0;
+}
