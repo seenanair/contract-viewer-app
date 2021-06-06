@@ -14,7 +14,11 @@ Install dependencies:
 Runs the app in the development mode
 ### `npm start`
 
+
+
 Open [http://localhost:3000/contract-viewer-app](localhost:3000/contract-viewer-app) to view it in the browser.
+
+
 
 
 ## Dependecies
