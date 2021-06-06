@@ -1,4 +1,4 @@
-# Contract Viewer Finder 
+# Contract Viewer App
 
 Demo project to view paragraphs in a contract that progressively loads on scroll. 
 
